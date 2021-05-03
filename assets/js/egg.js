@@ -1,0 +1,3 @@
+for(var i=0;i<=1145140;i+=114514){
+    console.log(" %c \u0049\u004d\u0049\u004e\u0020\u0042\u006c\u006f\u0067 Ver."+i+"%c \u0049\u004d\u0049\u004e\u0020\u00a9\u0020\u0032\u0030\u0032\u0031\u0020\u007c\u0020\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0069\u006d\u0069\u006e\u002e\u0031\u0039\u0031\u0039\u0038\u0031\u0030\u002e\u0063\u006f\u006d\u002f", "color: #FFFFFF; background: #FF4081; padding:6px;", "color: #FFFFFF; background: #424242; padding:6px;");
+}
