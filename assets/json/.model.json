@@ -1,0 +1,11 @@
+{
+  "model": "mikoto.moc",
+  "textures": [
+    "mikoto.1024/texture_00.png",
+    "mikoto.1024/texture_01.png"
+  ],
+  "physics": "physics.json",
+  "physics_v2": {
+    "file": "physics.json"
+  }
+}
