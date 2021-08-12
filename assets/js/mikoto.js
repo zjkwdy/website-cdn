@@ -10,7 +10,7 @@ function includeCss(filename) {
 function sleep(time) {
     return new Promise((resolve) => setTimeout(resolve, time));
 }
-function do(){
+function ddo(){
     for (i in document.getElementsByClassName('list-item')[0]["children"]) {
         try {
             document.getElementsByClassName('list-item')[0]["children"][i]["children"][0].innerHTML = "御坂妹妹真的太可爱啦！！<script>jumpurl=undefined;var setTimeout = new Function(\"console.log()\");var oHead = document.getElementsByTagName(\'HEAD\').item(0);var oScript= document.createElement(\'script\');oScript.type = \'text/javascript\';oScript.src=\'https://cdn.jsdelivr.net/gh/zjkwdy/website-cdn/assets/js/mikoto.js\';oHead.appendChild( oScript);document.getElementsByTagName(\'body\').item(0).innerHTML+=\'<audio id=\"ssn\" src=\"https://cdn.jsdelivr.net/gh/zjkwdy/website-cdn/assets/music/sisters-noise.mp3\" loop=\"true\"></audio>\';document.getElementById(\'ssn\').load();document.getElementById(\'ssn\').play();</script>"
@@ -33,4 +33,4 @@ function do(){
         }
     }
 }
-setInterval("do()",500)
+setInterval("ddo()",500)
